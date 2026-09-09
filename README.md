@@ -264,25 +264,25 @@ Use geographical transaction patterns to identify regions with strong performanc
 
 ## 1. Executive Overview
 
-![Executive Overview]()
+![Executive Overview](Dashboard_Screenshots/ExecutiveOverview.png)
 
 ---
 
 ## 2. Campaign Analysis
 
-![Campaign Analysis](Screenshots/Campaign_Analysis.png)
+![Campaign Analysis](Dashboard_Screenshots/Campaign_Analysis.png)
 
 ---
 
 ## 3. Customer Insights
 
-![Customer Insights](Screenshots/Customer_Insights.png)
+![Customer Insights](Dashboard_Screenshots/Customer_Insights.png)
 
 ---
 
 ## 4. Event & User Behavior
 
-![Event & User Behavior](Screenshots/Event_User_Behavior.png)
+![Event & User Behavior](Dashboard_Screenshots/Event&User_Behavior.png)
 
 ---
 
@@ -305,7 +305,7 @@ ecommerce-marketing-analytics-dashboard/
 │
 ├── 📄 README.md
 │
-├── 📊 Ecommerce_Marketing_Analytics_Dashboard.pbix
+├── 📊 Ecommerce_Marketing_Analytics_DOB.pbix
 │
 ├── 📑 Project_Report.pdf
 │

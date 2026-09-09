@@ -264,7 +264,7 @@ Use geographical transaction patterns to identify regions with strong performanc
 
 ## 1. Executive Overview
 
-![Executive Overview](Dashboard_Screenshots/ExecutiveOverview.png)
+![Executive Overview](Dashboard_Screenshots/Executive_Overview.png)
 
 ---
 
@@ -282,19 +282,19 @@ Use geographical transaction patterns to identify regions with strong performanc
 
 ## 4. Event & User Behavior
 
-![Event & User Behavior](Dashboard_Screenshots/Event&User_Behavior.png)
+![Event & User Behavior](Dashboard_Screenshots/Event_&_User_Behavior.png)
 
 ---
 
 ## 5. Product Performance
 
-![Product Performance](Screenshots/Product_Performance.png)
+![Product Performance](Dashboard_Screenshots/Product_Performance.png)
 
 ---
 
 ## 6. Transaction & Geo Analysis
 
-![Transaction & Geo Analysis](Screenshots/Transaction_Geo_Analysis.png)
+![Transaction & Geo Analysis](Dashboard_Screenshots/Transaction_&_Geo_Revenue_Analysis.png)
 
 ---
 
@@ -307,7 +307,7 @@ ecommerce-marketing-analytics-dashboard/
 │
 ├── 📊 Ecommerce_Marketing_Analytics_DOB.pbix
 │
-├── 📑 Project_Report.pdf
+├── 📑 Dashboard_Report.pdf
 │
 └── 📁 Screenshots/
     │
